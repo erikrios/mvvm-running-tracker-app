@@ -7,6 +7,9 @@
     <string name="avg_speed">AVGSPEED</string>
     <string name="calories">CALORIES</string>
     <string name="sort_by">Sort by:</string>
+    <string name="your_name">Your Name</string>
+    <string name="your_weight">Your Weight</string>
+    <string name="apply_changes">Apply Changes</string>
     <string-array name="filter_options">
         <item>Date</item>
         <item>Running Time</item>

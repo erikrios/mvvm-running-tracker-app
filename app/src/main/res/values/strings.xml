@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">MvvmRunningTrackerApp</string>
-    <string name="google_maps_key">AIzaSyAtemgwk7UnPljo9xGwsoyeSCkSp7oYikc</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAtemgwk7UnPljo9xGwsoyeSCkSp7oYikc</string>
+    <string-array name="filter_options">
+        <item>Date</item>
+        <item>Running Time</item>
+        <item>Distance</item>
+        <item>Average Speed</item>
+        <item>Calories Burned</item>
+    </string-array>
 </resources>

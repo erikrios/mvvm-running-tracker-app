@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MvvmRunningTrackerApp</string>
+    <string name="google_maps_key">AIzaSyAtemgwk7UnPljo9xGwsoyeSCkSp7oYikc</string>
 </resources>

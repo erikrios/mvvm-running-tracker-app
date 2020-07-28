@@ -6,6 +6,7 @@
     <string name="distance">DISTANCE</string>
     <string name="avg_speed">AVGSPEED</string>
     <string name="calories">CALORIES</string>
+    <string name="sort_by">Sort by:</string>
     <string-array name="filter_options">
         <item>Date</item>
         <item>Running Time</item>

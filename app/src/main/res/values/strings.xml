@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">MvvmRunningTrackerApp</string>
-    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAtemgwk7UnPljo9xGwsoyeSCkSp7oYikc</string>
     <string name="date">DATE</string>
     <string name="time">TIME</string>
     <string name="distance">DISTANCE</string>

@@ -10,6 +10,9 @@
     <string name="your_name">Your Name</string>
     <string name="your_weight">Your Weight</string>
     <string name="apply_changes">Apply Changes</string>
+    <string name="welcome_text">Welcome!\nPlease enter your name and weight.</string>
+    <string name="kg">kg</string>
+    <string name="continue_text">Continue</string>
     <string-array name="filter_options">
         <item>Date</item>
         <item>Running Time</item>

@@ -12,6 +12,14 @@
     <string name="welcome_text">Welcome!\nPlease enter your name and weight.</string>
     <string name="kg">kg</string>
     <string name="continue_text">Continue</string>
+    <string name="total_distance">Total Distance</string>
+    <string name="zero_km">0km</string>
+    <string name="total_time">Total Time</string>
+    <string name="total_time_second">00:00:00</string>
+    <string name="zero_kcal">0kcal</string>
+    <string name="average_speed">Average Speed</string>
+    <string name="zero_km_h">0km/h</string>
+    <string name="total_calories_burned">Total Calories Burned</string>
     <string-array name="filter_options">
         <item>Date</item>
         <item>Running Time</item>

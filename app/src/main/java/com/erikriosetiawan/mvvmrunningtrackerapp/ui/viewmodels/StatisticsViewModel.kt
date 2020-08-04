@@ -7,5 +7,4 @@ import com.erikriosetiawan.mvvmrunningtrackerapp.repositories.MainRepository
 class StatisticsViewModel @ViewModelInject constructor(
     val mainRepository: MainRepository
 ) : ViewModel() {
-
 }

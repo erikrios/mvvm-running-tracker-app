@@ -24,6 +24,10 @@
     <string name="start">Start</string>
     <string name="finish_run">Finish Run</string>
     <string name="lets_go_username">Let\'s go, USERNAME!</string>
+    <string name="running_app">Running App</string>
+    <string name="your_runs">Your Runs</string>
+    <string name="statistics">Statistics</string>
+    <string name="settings">Settings</string>
     <string-array name="filter_options">
         <item>Date</item>
         <item>Running Time</item>

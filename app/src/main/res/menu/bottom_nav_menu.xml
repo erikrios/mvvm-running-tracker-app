@@ -12,7 +12,7 @@
         android:title="@string/statistics" />
 
     <item
-        android:id="@+id/settingFragment"
+        android:id="@+id/settingsFragment"
         android:icon="@drawable/ic_settings"
         android:title="@string/settings" />
 
